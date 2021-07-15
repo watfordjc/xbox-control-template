@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Controller: Microsoft Xbox One';
+    src: local('Controller: Microsoft Xbox One'), url("./Controller%20-%20Microsoft%20Xbox%20One.otf") format("opentype");
+}
+.Title {
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Copyright {
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Info {
+    font-family: sans-serif;
+    font-size: 24pt;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.P1 {
+    font-family: 'Controller: Microsoft Xbox One';
+    text-align: center;
+    font-size: 48pt;
+}
+
+.P2 {
+    font-family: sans-serif;
+    font-size: 48pt;
+    text-align: center;
+}
+
+.D {
+    width: 90px;
+    height: 90px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #f0f0f0;
+    vertical-align: center;
+}
+
+TABLE {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Gap {
+    width: 50px;
+}
